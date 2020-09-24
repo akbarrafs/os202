@@ -11,3 +11,4 @@ ZCZC W01 10 L09 Asdos: asking
 ZCZC W01 45 L05 GSGS: About install ssh, localhost on mac terminal
 ZCZC W01 15 L99 Ask friend how to solve "akbarrafs is not in the sudoers file. This incident will be reported."
 ZCZC W01 150 L99 Stuck when set a tunnel from osp "ssh:connect to host localhost port 6023: connection refused"
+ZCZC W01 5 L03 GitHub related

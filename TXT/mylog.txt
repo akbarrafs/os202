@@ -1,14 +1,28 @@
-# Log Format
+ Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 GitHub related
+ZCZC W00 5 L11 Assignment #1
 ZCZC W00 100 L02 ZOOM related
+ZCZC W00 5 L12 Assignment #2
 ZCZC W00 10 LO4 GitHub Pages related
+ZCZC W00 10 L13 Assignment #3
+ZCZC W00 10 L14 Assignment #4
+ZCZC W00 15 L15 Assignment #5
 ZCZC W00 35 L21 Virtualbox: Install Linux Debian
 ZCZC W01 120 L02 ZOOM
+ZCZC W01 10 L11 Assignment #1
 ZCZC W01 30 L21 Virtualbox: Setup Linux Debian
 ZCZC W01 10 L09 Asdos: asking
 ZCZC W01 45 L05 GSGS: About install ssh, localhost on mac terminal
 ZCZC W01 15 L99 Ask friend how to solve "akbarrafs is not in the sudoers file. This incident will be reported."
 ZCZC W01 150 L99 Stuck when set a tunnel from osp "ssh:connect to host localhost port 6023: connection refused"
 ZCZC W01 5 L03 GitHub related
+ZCZC W01 45 L99 solved ssh tunnel, continue assignment
+ZCZC W01 10 L12 Assignment #2
+ZCZC W01 10 L13 Assignment #3
+ZCZC W01 10 L14 Assignment #4
+ZCZC W01 10 L15 Assignment #5
+ZCZC W01 10 L16 Assignment #6
+ZCZC W01 10 L17 Assignment #7
+

@@ -6,7 +6,7 @@ Hello! This is Muhammad Akbar Rafsanjhani's os202 Page for Operating System Cour
 You can see my OS202 Github Repository, Github Page, and the Log here:
 * **My OS202 Github Repository** -> [Click Here!](https://github.com/akbarrafs/os202/)
 * **My OS202 Github Page** -> [Also Click Here!](https://akbarrafs.github.io/os202/)
-* **My OS202 Log** -> [Yea, Click Here..](https://github.com/akbarrafs/os202/TXT/mylog.txt/)
+* **My OS202 Log** -> [Yea, Click Here..](https://github.com/akbarrafs/os202/blob/master/TXT/mylog.txt)
 
 ## Operating Systems Weekly Top Ten List
 * [Week 00](W00/)

@@ -14,7 +14,7 @@ You can see my OS202 Github Repository, Github Page, and the Log here:
 * [Week 02](W02/)
 
 ### Contact
-GitHub: [akbarrafs](github.com/akbarrafs)<br>
-LinkedIn: [Akbar Rafsanjhani](linkedin.com/in/akbarrafsan)<br>
-Instagram: [akbarrafs_](instagram.com/akbarrafs_)<br>
+GitHub: [akbarrafs](github.com/akbarrafs)<br/>
+LinkedIn: [Akbar Rafsanjhani](linkedin.com/in/akbarrafsan)<br/>
+Instagram: [akbarrafs_](instagram.com/akbarrafs_)<br/>
 YouTube: [akbarrafs](youtube.com/akbarrafs)

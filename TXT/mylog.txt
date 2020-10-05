@@ -33,7 +33,8 @@ ZCZC W02 15 L05 GSGS: How to import local files to linux box
 ZCZC W02 10 L13 Assignment #3
 ZCZC W02 5 L14 Assignment #4
 ZCZC W02 10 L15 Assignment #5 
-
+ZCZC W02 5 L17 Assignment #7
+ZCZC W02 10 L19 Assignment #9
 
 
 

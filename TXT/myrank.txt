@@ -5,6 +5,6 @@ ZCZC W00 aannurwahidi7
 ZCZC W01 aliasadillah
 ZCZC W01 abimanyu-theprogrammer
 ZCZC W01 achmadafriza
-ZCZC W03 anowanggai
-ZCZC W03 aks861
-ZCZC W03 abebrahmana
+ZCZC W02 anowanggai
+ZCZC W02 aks861
+ZCZC W02 abebrahmana

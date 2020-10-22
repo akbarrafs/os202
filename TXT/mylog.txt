@@ -65,3 +65,12 @@ ZCZC W04 60 L11 Assignment #1
 ZCZC W04 25 L05 GSGS related
 ZCZC W04 75 L14 Assignment #4
 ZCZC W04 4 L19 Assignment #9
+ZCZC W05 120 L02 ZOOM
+ZCZC W05 5 L05 GSGS related
+ZCZC W05 5 L12 Assignment #2
+ZCZC W05 10 L13 Assignment #3
+ZCZC W05 3 L15 Assignment #5
+ZCZC W05 3 L16 Assignment #6
+ZCZC W05 3 L17 Assignment #7
+ZCZC W05 4 L18 Assignment #8
+ZCZC W05 2 L19 Assignment #9

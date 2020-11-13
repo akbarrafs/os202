@@ -76,3 +76,7 @@ ZCZC W05 4 L18 Assignment #8
 ZCZC W05 2 L19 Assignment #9
 ZCZC W05 45 L11 Assignment #1
 ZCZC W05 100 L14 Assignment #4
+ZCZC W06 15 L09 AsDos: asking about kawung issues
+ZCZC W06 5 L12 Assignment #2
+ZCZC W06 15 L13 Assignment #3
+ZCZC W06 7 L15 Assignment #5

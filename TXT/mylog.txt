@@ -83,4 +83,10 @@ ZCZC W06 7 L15 Assignment #5
 ZCZC W06 45 L05 GSGS related
 ZCZC W06 125 L11 Assignment #1
 ZCZC W06 45 L14 Assignment #4
-
+ZCZC W06 35 L99 Asking Friends About C and search it on Google
+ZCZC W06 120 L16 Assignment #6
+ZCZC W06 10 L17 Assignment #7
+ZCZC W06 2 L18 Assignment #8
+ZCZC W06 10 L20 Assignment #10
+ZCZC W06 10 L21 Assignment #11
+ZCZC W06 5 L19 Assignment #9

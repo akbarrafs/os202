@@ -90,3 +90,11 @@ ZCZC W06 2 L18 Assignment #8
 ZCZC W06 10 L20 Assignment #10
 ZCZC W06 10 L21 Assignment #11
 ZCZC W06 5 L19 Assignment #9
+ZCZC W07 120 L02 ZOOM
+ZCZC W07 5 L11 Assignment #1
+ZCZC W07 5 L13 Assignment #3
+ZCZC W07 25 L14 Assignment #4
+ZCZC W07 10 L16 Assignment #6
+ZCZC W07 5 L18 Assignment #8
+ZCZC W07 15 L17 Assignment #7
+ZCZC W07 5 L19 Assignment #9

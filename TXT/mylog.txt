@@ -98,5 +98,10 @@ ZCZC W07 10 L16 Assignment #6
 ZCZC W07 5 L18 Assignment #8
 ZCZC W07 15 L17 Assignment #7
 ZCZC W07 5 L19 Assignment #9
+ZCZC W07 45 L99 Asking Friends About Semaphore and how it works in c-code.
+ZCZC W07 15 L09 AsDos: Asking about assignments and related.
 ZCZC W07 145 L11 Assignment #11
 ZCZC W07 5 L12 Assignment #12
+ZCZC W07 95 L12 Assignment #2
+ZCZC W07 45 L15 Assignment #5
+ZCZC W07 5 L10 Assignment #10

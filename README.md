@@ -17,6 +17,7 @@ You can see my OS202 Github Repository, Github Page, and the Log here:
 * [Week 05](W05/)
 * [Week 06](W06/)
 * [Week 07](W07/)
+* [Week 08](W08/)
 
 ### Contact
 GitHub: [akbarrafs](https://github.com/akbarrafs/)<br/>

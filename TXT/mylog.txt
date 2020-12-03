@@ -121,12 +121,15 @@ ZCZC W08 90 L09 AsDos: Asking about LFSA missing conf
 ZCZC W08 10 L99 Armoring myW08.tar.bz2.txt
 ZCZC W08 15 L99 Fixing issues
 ZCZC W09 120 L02 ZOOM
+ZCZC W09 5 L13 Assignment #3
 ZCZC W09 5 L11 Assignment #1
-ZCZC W09 15 L16 Assignment #6
-ZCZC W09 85 L12 Assignment #3
+ZCZC W09 10 L16 Assignment #6
 ZCZC W09 25 L14 Assignment #4
-ZCZC W09 5 L13 Assignment #2
-ZCZC W09 75 L15 Assignment #5
+ZCZC W09 85 L12 Assignment #2
+ZCZC W09 115 L15 Assignment #5
 ZCZC W09 5 L17 Assignment #7
 ZCZC W09 5 L18 Assignment #8
+ZCZC W09 245 L20 Assignment #10
+ZCZC W09 15 L21 Assignment #11
+ZCZC W09 10 L19 Assignment #9
 

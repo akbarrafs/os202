@@ -129,6 +129,7 @@ ZCZC W09 85 L12 Assignment #2
 ZCZC W09 115 L15 Assignment #5
 ZCZC W09 5 L17 Assignment #7
 ZCZC W09 5 L18 Assignment #8
+ZCZC W09 120 L99 Learn LFS from linuxfromscratch.org
 ZCZC W09 245 L20 Assignment #10
 ZCZC W09 15 L21 Assignment #11
 ZCZC W09 10 L19 Assignment #9

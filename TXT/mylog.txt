@@ -134,4 +134,11 @@ ZCZC W09 245 L20 Assignment #10
 ZCZC W09 15 L21 Assignment #11
 ZCZC W09 10 L19 Assignment #9
 ZCZC W09 5 L99 Add blank file to W09
+ZCZC W10 120 L02 ZOOM
+ZCZC W10 5 L11 Assignment #1
+ZCZC W10 10 L13 Assignment #3
+ZCZC W10 25 L14 Assignment #4
+ZCZC W10 10 L16 Assignment #6
+ZCZC W10 5 L17 Assignment #7
+ZCZC W10 5 L18 Assignment #8
 
